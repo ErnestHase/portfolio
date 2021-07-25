@@ -1,1 +1,26 @@
+h1{
+  font-family: Arial, Tahoma, serif;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+}
 
+h2{
+  font-family: Arial, Tahoma, serif;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+}
+
+h3{
+  font-family: Arial, Tahoma, serif;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+p{
+  font-family: Arial, Tahoma, serif;
+  color: Black;
+  font-size: 14px;
+}
