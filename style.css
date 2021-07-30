@@ -1,9 +1,5 @@
 /* to make my background a darker color so lighter text will show up */
-body, html{
-  height: 100%;
-}
-
-.bg{
+body{
   background-color: #419F9E;
 }
 
