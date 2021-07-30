@@ -1,3 +1,13 @@
+/* to make my background a darker color so lighter text will show up */
+body, html{
+  height: 100%;
+}
+
+.bg{
+  background-color: #419F9E;
+}
+
+/* styling for my name at the top*/
 h1{
   font-family: Arial, Tahoma, serif;
   color: white;
@@ -5,6 +15,7 @@ h1{
   font-size: 28px;
 }
 
+/* styling for my other title sections */
 h2{
   font-family: Arial, Tahoma, serif;
   color: white;
@@ -12,6 +23,7 @@ h2{
   font-size: 22px;
 }
 
+/* styling for my job title under my name at the top */
 h3{
   font-family: Arial, Tahoma, serif;
   color: white;
@@ -21,6 +33,18 @@ h3{
 
 p{
   font-family: Arial, Tahoma, serif;
-  color: Black;
+  color: gray;
   font-size: 14px;
 }
+
+/*styling for my links at the bottom for my profiles*/
+a{ 
+  font-family: Times New Roman, Times, sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+a:link {color: green} 
+a:visited {color: orange}
+a:hover {color: yellow}
+a:active {color: white}
