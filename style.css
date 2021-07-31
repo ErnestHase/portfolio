@@ -1,5 +1,3 @@
-/* to make my background a darker color so lighter text will show up */
-
 /* styling for my name at the top*/
 h1{
   font-family: Arial, Tahoma, serif;
@@ -26,7 +24,7 @@ h3{
 
 p{
   font-family: Arial, Tahoma, serif;
-  color: gray;
+  color: #F2F2CC;
   font-size: 14px;
 }
 
@@ -34,7 +32,6 @@ p{
 a{ 
   font-family: Times New Roman, Times, sans-serif;
   font-size: 22px;
-  text-align: center;
 }
 
 a:link {color: green} 
