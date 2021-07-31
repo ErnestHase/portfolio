@@ -25,7 +25,13 @@ h3{
 p{
   font-family: Arial, Tahoma, serif;
   color: #F2F2CC;
+  text-align: center;
   font-size: 14px;
+}
+
+li{
+  text-align: center;
+  text-decoration: italic;
 }
 
 /*styling for my links at the bottom for my profiles*/
