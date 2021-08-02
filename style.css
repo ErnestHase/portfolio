@@ -4,6 +4,7 @@ h1{
   color: white;
   text-align: center;
   font-size: 28px;
+  height: 20px;
 }
 
 /* styling for my other title sections */
@@ -22,11 +23,17 @@ h3{
   font-size: 20px;
 }
 
+img{
+  padding: 25px 25px 25px 25px
+}
+
 p{
   font-family: Arial, Tahoma, serif;
   color: #F2F2CC;
   text-align: center;
   font-size: 14px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 li{
