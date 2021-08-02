@@ -24,7 +24,8 @@ h3{
 }
 
 img{
-  padding: 25px 25px 25px 1225px
+  padding: 25px 25px 25px 25px;
+  margin-left: 500px
 }
 
 p{
